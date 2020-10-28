@@ -1,0 +1,16 @@
+{"books": [
+{"Title":"Rushdesher Upokotha","Price":20.9,"Author":"Noni Bhowmik","Genre":"Drama"},
+{"Title":"Shawshank Redemption","Price":31.59,"Author":"Stephen King","Genre":"Horror fiction"},
+{"Title":"The God of Small Things","Price":22.0,"Author":"Arundhati Roy","Genre":"Novel, Psychological and Domestic Fiction"},
+{"Title":"The Two Towers","Price":9.64,"Author":"J. R. R. Tolkien","Genre":"Fantasy"},
+{"Title":"The Return of the King","Price":9.76,"Author":"J. R. R. Tolkien","Genre":"Fantasy"},
+{"Title":"Ringworld","Price":10.4,"Author":"Larry Niven","Genre":"Sci-Fi"},
+{"Title":"Blood Music","Price":18.11,"Author":"Greg Bear","Genre":"Sci-Fi"},
+{"Title":"Neuromancer","Price":12.38,"Author":"William Gibson","Genre":"Sci-Fi"},
+{"Title":"The Blade itself: The First law: Book One","Price":17.62,"Author":"Joe Abercrombie","Genre":"Fantasy"},
+{"Title":"Storm Front (The Dresden Files, Book 1)","Price":10.99,"Author":"Jim Butcher","Genre":"Urban Fantasy"},
+{"Title":"The Lies of Locke Lamora","Price":15.83,"Author":"Scott Lynch","Genre":"Fantasy"},
+{"Title":"Dune","Price":10.15,"Author":"Frank Herbert","Genre":"Sci-Fi"},
+{"Title":"Mistborn: The Final Empire","Price":9.77,"Author":"Brandon Sanderson","Genre":"Fantasy"}
+]
+}
